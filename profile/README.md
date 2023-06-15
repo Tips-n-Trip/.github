@@ -12,3 +12,14 @@ Tips n Trip is an application that can provide a holiday itinerary per day that 
 | Muhammad Imam Hidayat | C151DSX1950 | Cloud Computing |
 | Ahmad Miftahul Azisz | A251DSX1129 | Android Development |
 | Reza Agung Nugraha | A151DSX1153 | Android Development |
+
+### Dataset
+https://drive.google.com/file/d/1tzyn5ldSsnS0qWGASmywCgUKHZ4Vja7U/view?usp=drive_link
+### App Design
+https://www.figma.com/file/cre2A9TmQPD47jZIaX7AHk/Tips-n-Trip?type=design&node-id=2-3
+### Backend API
+https://backend-dot-capstone-project-1945.uc.r.appspot.com
+### ML Model API
+https://mlmodel-dot-capstone-project-1945.uc.r.appspot.com
+### ML API Notebook
+https://colab.research.google.com/drive/1Lm3k0FjgF3kszeM3HSQZK8wsGsWWE2fk?usp=sharing
